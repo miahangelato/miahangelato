@@ -1,7 +1,7 @@
 # Hi there! I'm Miah Angela To 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Full-Stack+Developer;Machine+Learning+Enthusiast;Django+%26+React+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E59AA6&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Full-Stack+Developer;Machine+Learning+Enthusiast;Django+%26+React+Developer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -52,12 +52,12 @@ I'm a passionate **Computer Engineering student** from **Holy Angel University**
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miahangelato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miahangelato&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miahangelato&show_icons=true&theme=rose_pine&bg_color=00000000&title_color=E59AA6&text_color=313A42&icon_color=E59AA6&border_color=E59AA6&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miahangelato&layout=compact&langs_count=7&theme=rose_pine&bg_color=00000000&title_color=E59AA6&text_color=313A42&border_color=E59AA6"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miahangelato&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miahangelato&theme=rose-pine&background=00000000&border=E59AA6&stroke=E59AA6&ring=E59AA6&fire=E59AA6&currStreakNum=313A42&sideNums=313A42&currStreakLabel=E59AA6&sideLabels=E59AA6&dates=313A42" alt="GitHub Streak Stats" />
 </div>
 
 ## 🚀 Featured Projects
@@ -130,16 +130,16 @@ I'm a passionate **Computer Engineering student** from **Holy Angel University**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miah-angela-to/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miahangelato)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:to.miahangela@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://miahangelato.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-E59AA6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miah-angela-to/)
+[![GitHub](https://img.shields.io/badge/-GitHub-313A42?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miahangelato)
+[![Email](https://img.shields.io/badge/-Email-E59AA6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:to.miahangela@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-313A42?style=for-the-badge&logo=react&logoColor=white)](https://miahangelato.github.io/portfolio/)
 
 </div>
 
 ## 📈 Activity Graph
 
-[![Miah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miahangelato&theme=tokyo-night)](https://github.com/miahangelato)
+[![Miah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miahangelato&bg_color=00000000&color=313A42&line=E59AA6&point=E59AA6&title_color=E59AA6&area=true&area_color=E59AA6)](https://github.com/miahangelato)
 
 ## 💡 Fun Facts
 
@@ -152,7 +152,7 @@ I'm a passionate **Computer Engineering student** from **Holy Angel University**
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=miahangelato&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=miahangelato&label=Profile%20views&color=E59AA6&style=flat" alt="Profile Views" />
   
   **✨ "Code is poetry written in logic" ✨**
   
